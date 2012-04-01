@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{nacho:0,"aqu\u00ed":0,enlac:0,poner:0,traduccion:0,bienvenido:0,contenido:1,titl:1,vamo:0,"espa\u00f1ol":0,pacheco:0,"p\u00e1gina":[0,1],necesitemo:0,que:0,todo:0},objtypes:{},titles:["\u00a1Bienvenido!","&lt;no title&gt;"],objnames:{},filenames:["contenido","index"]})
